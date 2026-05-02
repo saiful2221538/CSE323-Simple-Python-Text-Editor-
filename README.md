@@ -1,5 +1,8 @@
 # CSE323 # Simple Text Editor — Python Port
 
+
+## Please check others folder for video and final report ##
+
 ## File Structure
 
 | Python file                       Purpose                              |
