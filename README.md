@@ -1,18 +1,18 @@
-# CSE323-Simple-Python-Text-Editor-# Simple Text Editor — Python Port
+# CSE323 # Simple Text Editor — Python Port
 
 ## File Structure
 
-| Python file               Purpose                              |
-|----------------------------------------------------------------|
-| `simple_text_editor.py`   Entry point & app constants          |
-| `ui.py`                   Main window, menus, toolbar          |
-| `about.py`                About dialogs                        |
-| `auto_complete.py`        Keyword & bracket autocomplete       |
-| `fedit.py`                Utility: clear text area             |
-| `find.py`                 Find & Replace dialog                |
-| `highlight_text.py`       Syntax highlighting via tkinter tags |
-| `supported_keywords.py`   Java/C++ keyword lists               |
-
+| Python file                       Purpose                              |
+|------------------------------------------------------------------------|
+| `simple_text_editor.py`           Entry point & app constants          |
+| `ui.py`                           Main window, menus, toolbar          |
+| `about.py`                        About dialogs                        |
+| `auto_complete.py`                Keyword & bracket autocomplete       |
+| `fedit.py`                        Utility: clear text area             |
+| `find.py`                         Find & Replace dialog                |
+| `highlight_text.py`               Syntax highlighting via tkinter tags |
+| `supported_keywords.py`           keyword lists                        |
+ 
 ## Requirements
 
 - Python 3.10+ (uses `match` / union-type hints)
