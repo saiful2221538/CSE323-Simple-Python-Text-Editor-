@@ -1,7 +1,7 @@
 # CSE323 # Simple Text Editor — Python Port
 
-
-## Please check others folder for video and final report ##
+video:
+https://youtu.be/Nt2FVUAJpls
 
 ## File Structure
 
